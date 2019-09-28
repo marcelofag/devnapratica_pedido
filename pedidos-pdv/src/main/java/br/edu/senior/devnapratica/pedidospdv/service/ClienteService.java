@@ -7,7 +7,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.sun.org.apache.xml.internal.resolver.helpers.PublicId;
+/*import com.sun.org.apache.xml.internal.resolver.helpers.PublicId;*/
 
 import br.edu.senior.devnapratica.pedidospdv.dao.ClienteDao;
 import br.edu.senior.devnapratica.pedidospdv.domain.Cliente;
